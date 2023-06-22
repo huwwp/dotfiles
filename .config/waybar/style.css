@@ -1,5 +1,5 @@
 * {
-    font-family: Hack Nerd Font Mono;
+    font-family: monospace;
     font-size: 15px;
 }
 
@@ -58,6 +58,7 @@ window#waybar {
 #idle_inhibitor,
 #custom-poweroff,
 #custom-suspend,
+#language,
 #mpd {
     padding: 0 8px;
     background-color: #282828;
